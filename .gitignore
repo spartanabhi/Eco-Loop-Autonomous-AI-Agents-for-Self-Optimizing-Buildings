@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Large GGUF Models & node_modules
+*.gguf
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# EnergyPlus simulation raw outputs & temporary files
+logs/
+*.eso
+*.err
+*.eow
+*.rdd
+*.mdd
+*.bnd
+*.dxf
+*.audit
+*.sql
+*.epmdet
+*.epmdft
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# IDE files
+.vscode/
+.idea/

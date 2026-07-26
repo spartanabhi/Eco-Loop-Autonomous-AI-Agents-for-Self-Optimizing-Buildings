@@ -1,0 +1,10 @@
+{
+  "run_id": "eval-ai-1785064826",
+  "simulation_time": "Day 21/01 17:20",
+  "source_model": "models/modified/control_ready.idf",
+  "active_override_zone": "CORE_ZN",
+  "applied_heating_setpoint": 21.0,
+  "applied_cooling_setpoint": 31.5,
+  "agent_reason": "Relax cooling setpoint by +0.5\u00b0C to save energy",
+  "timestamp": 1785064886.6387231
+}

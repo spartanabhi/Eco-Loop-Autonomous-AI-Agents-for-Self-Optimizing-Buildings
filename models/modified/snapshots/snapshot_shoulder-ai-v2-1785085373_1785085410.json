@@ -1,0 +1,10 @@
+{
+  "run_id": "shoulder-ai-v2-1785085373",
+  "simulation_time": "Day 15/05 08:02",
+  "source_model": "models/modified/control_ready.idf",
+  "active_override_zone": "CORE_ZN",
+  "applied_heating_setpoint": 21.5,
+  "applied_cooling_setpoint": 24.0,
+  "agent_reason": "Restores occupied heating comfort when zone is cold.",
+  "timestamp": 1785085410.18496
+}

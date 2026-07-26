@@ -1,0 +1,49 @@
+run_id,simulation_time,zone,source,reason,previous_heating_setpoint,previous_cooling_setpoint,requested_heating_setpoint,requested_cooling_setpoint,applied_heating_setpoint,applied_cooling_setpoint,validation_passed,validation_message,actuator_write_success
+summer-ai-v2-1785083893,Day 21/07 08:02,CORE_ZN,local_qwen_agent,Relaxes cooling setpoint by 0.5°C to reduce compressor cooling electricity and maintain occupant comfort.,21.00,24.00,21.00,24.50,21.00,24.50,True,Valid,True
+summer-ai-v2-1785083893,Day 21/07 08:42,CORE_ZN,local_qwen_agent,Relaxes cooling setpoint by 0.5°C to reduce compressor cooling electricity and restore occupied cooling comfort.,21.00,24.50,21.00,25.00,21.00,25.00,True,Valid,True
+summer-ai-v2-1785083893,Day 21/07 09:23,CORE_ZN,local_qwen_agent,Relaxes cooling setpoint by 0.5°C to reduce compressor cooling electricity.,21.00,25.00,21.00,25.50,21.00,25.50,True,Valid,True
+summer-ai-v2-1785083893,Day 21/07 10:02,CORE_ZN,local_qwen_agent,Relaxes cooling setpoint by 0.5°C to reduce compressor cooling electricity and restore occupied cooling comfort.,21.00,25.50,21.00,26.00,21.00,26.00,True,Valid,True
+summer-ai-v2-1785083893,Day 21/07 10:43,CORE_ZN,local_qwen_agent,Relaxes cooling setpoint by 0.5°C to reduce compressor cooling electricity and restore occupied cooling comfort.,21.00,26.00,21.00,26.50,21.00,26.50,True,Valid,True
+summer-ai-v2-1785083893,Day 21/07 11:25,CORE_ZN,local_qwen_agent,Relaxes cooling setpoint by 0.5°C to reduce compressor cooling electricity and restore occupied cooling comfort.,21.00,26.50,21.00,27.00,21.00,27.00,True,Valid,True
+summer-ai-v2-1785083893,Day 21/07 12:05,CORE_ZN,local_qwen_agent,Relaxes cooling setpoint by 0.5°C to reduce compressor cooling electricity.,21.00,27.00,21.00,27.50,21.00,27.50,True,Valid,True
+summer-ai-v2-1785083893,Day 21/07 12:40,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,27.50,21.00,27.50,21.00,27.50,True,Valid,True
+summer-ai-v2-1785083893,Day 21/07 13:25,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,27.50,21.00,27.50,21.00,27.50,True,Valid,True
+summer-ai-v2-1785083893,Day 21/07 14:02,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,27.50,21.00,27.50,21.00,27.50,True,Valid,True
+summer-ai-v2-1785083893,Day 21/07 14:42,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,27.50,21.00,27.50,21.00,27.50,True,Valid,True
+summer-ai-v2-1785083893,Day 21/07 15:23,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,27.50,21.00,27.50,21.00,27.50,True,Valid,True
+summer-ai-v2-1785083893,Day 21/07 16:03,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,27.50,21.00,27.50,21.00,27.50,True,Valid,True
+summer-ai-v2-1785083893,Day 21/07 16:43,CORE_ZN,local_qwen_agent,Relaxes cooling setpoint by 0.5°C to reduce compressor cooling electricity.,21.00,27.50,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 08:02,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 08:42,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 09:22,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 10:00,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 10:45,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 11:25,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 12:05,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 12:45,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 13:20,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 14:00,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 14:45,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 15:25,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 16:03,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 16:43,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 17:23,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 18:03,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 22/07 18:43,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 08:02,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 08:42,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 09:23,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 10:03,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 10:45,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 11:23,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 12:03,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 12:45,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 13:25,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 14:05,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 14:43,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 15:25,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 16:05,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 16:45,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 17:23,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 18:03,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True
+summer-ai-v2-1785083893,Day 23/07 18:43,CORE_ZN,local_qwen_agent,Restores occupied cooling comfort when zone is warm.,21.00,28.00,21.00,28.00,21.00,28.00,True,Valid,True

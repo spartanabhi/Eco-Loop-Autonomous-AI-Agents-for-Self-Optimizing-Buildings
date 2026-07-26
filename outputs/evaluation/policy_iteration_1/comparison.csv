@@ -1,0 +1,10 @@
+Metric,Baseline,AI Controlled (Policy Iteration #1),Difference / Reduction %
+Electricity Consumption (kWh),264.00,264.00,+0.00%
+Natural Gas Heating (kWh-eq),728.19,728.19,+0.00%
+TOTAL SITE ENERGY (kWh-eq),992.20,992.20,+0.00%
+Peak Electricity Demand (kW),7.33,7.33,+0.00%
+Thermal Comfort Compliance (%),63.7%,63.7%,+0.0%
+Mean Occupied PMV,-0.42,-0.42,N/A
+Mean Occupied Temp (°C),23.13,23.13,N/A
+Max Occupied CO2 (ppm),792,792,N/A
+Simulated Grid Carbon Score (g CO2),92733,92733,+0.00%

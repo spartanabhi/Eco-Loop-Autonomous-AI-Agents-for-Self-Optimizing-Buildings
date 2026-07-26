@@ -1,0 +1,14 @@
+{
+  "policy_version": "policy_iter2_candidate",
+  "total_replay_decisions": 40,
+  "maintain_count": 24,
+  "ecm_available_count": 16,
+  "ecm_selected_count": 16,
+  "ecm_selection_rate_pct": 100.0,
+  "action_distribution": {
+    "ADJUST_SETPOINTS": 16,
+    "MAINTAIN": 24
+  },
+  "schema_failures": 0,
+  "safety_failures": 0
+}

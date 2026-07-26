@@ -1,0 +1,4 @@
+# Eco-Loop Building Agents - Minimal Core Dependencies
+# Note: PyEnergyPlus is included with EnergyPlus installation and is discovered via ENERGYPLUS_HOME.
+
+python-dotenv>=1.0.0

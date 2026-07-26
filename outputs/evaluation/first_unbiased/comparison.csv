@@ -1,0 +1,8 @@
+Metric,Baseline,AI Controlled,Difference / Reduction %
+Total Electricity (kWh),264.00,264.00,+0.00%
+Peak Electricity Demand (kW),7.33,7.33,+0.00%
+Thermal Comfort Compliance (%),63.7%,0.0%,-63.7%
+Mean Occupied PMV,-0.42,+0.29,N/A
+Mean Occupied Temp (°C),23.13,25.51,N/A
+Max Occupied CO2 (ppm),792,784,N/A
+Simulated Carbon Score (g CO2),92733,92733,+0.00%

@@ -1,0 +1,10 @@
+{
+  "run_id": "winter-ai-v2-1785085008",
+  "simulation_time": "Day 22/01 08:00",
+  "source_model": "models/modified/control_ready.idf",
+  "active_override_zone": "CORE_ZN",
+  "applied_heating_setpoint": 22.0,
+  "applied_cooling_setpoint": 24.0,
+  "agent_reason": "Restores occupied heating comfort when zone is cold.",
+  "timestamp": 1785085162.5787895
+}

@@ -1,0 +1,10 @@
+{
+  "run_id": "summer-ai-v2-1785084104",
+  "simulation_time": "Day 21/07 09:23",
+  "source_model": "models/modified/control_ready.idf",
+  "active_override_zone": "CORE_ZN",
+  "applied_heating_setpoint": 21.0,
+  "applied_cooling_setpoint": 25.5,
+  "agent_reason": "Relaxes cooling setpoint by 0.5\u00b0C to reduce compressor cooling electricity.",
+  "timestamp": 1785084212.5987685
+}

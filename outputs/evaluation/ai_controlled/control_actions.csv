@@ -1,0 +1,17 @@
+run_id,simulation_time,zone,source,reason,previous_heating_setpoint,previous_cooling_setpoint,requested_heating_setpoint,requested_cooling_setpoint,applied_heating_setpoint,applied_cooling_setpoint,validation_passed,validation_message,actuator_write_success
+eval-ai-1785064826,Day 21/01 08:00,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,26.70,21.00,24.50,21.00,24.50,True,Valid,True
+eval-ai-1785064826,Day 21/01 08:40,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,24.50,21.00,25.00,21.00,25.00,True,Valid,True
+eval-ai-1785064826,Day 21/01 09:20,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,25.00,21.00,25.50,21.00,25.50,True,Valid,True
+eval-ai-1785064826,Day 21/01 10:00,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,25.50,21.00,26.00,21.00,26.00,True,Valid,True
+eval-ai-1785064826,Day 21/01 10:40,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,26.00,21.00,26.50,21.00,26.50,True,Valid,True
+eval-ai-1785064826,Day 21/01 11:20,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,26.50,21.00,27.00,21.00,27.00,True,Valid,True
+eval-ai-1785064826,Day 21/01 12:00,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,27.00,21.00,27.50,21.00,27.50,True,Valid,True
+eval-ai-1785064826,Day 21/01 12:40,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,27.50,21.00,28.00,21.00,28.00,True,Valid,True
+eval-ai-1785064826,Day 21/01 13:20,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,28.00,21.00,28.50,21.00,28.50,True,Valid,True
+eval-ai-1785064826,Day 21/01 14:00,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,28.50,21.00,29.00,21.00,29.00,True,Valid,True
+eval-ai-1785064826,Day 21/01 14:40,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,29.00,21.00,29.50,21.00,29.50,True,Valid,True
+eval-ai-1785064826,Day 21/01 15:20,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,29.50,21.00,30.00,21.00,30.00,True,Valid,True
+eval-ai-1785064826,Day 21/01 16:00,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,30.00,21.00,30.50,21.00,30.50,True,Valid,True
+eval-ai-1785064826,Day 21/01 16:40,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,30.50,21.00,31.00,21.00,31.00,True,Valid,True
+eval-ai-1785064826,Day 21/01 17:20,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,31.00,21.00,31.50,21.00,31.50,True,Valid,True
+eval-ai-1785064826,Day 21/01 18:00,CORE_ZN,local_qwen_agent,Relax cooling setpoint by +0.5°C to save energy,21.00,31.50,21.00,32.00,21.00,32.00,True,Valid,True

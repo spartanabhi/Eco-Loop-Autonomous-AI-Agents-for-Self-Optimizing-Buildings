@@ -1,0 +1,10 @@
+{
+  "run_id": "summer-ai-v2-1785084104",
+  "simulation_time": "Day 23/07 16:45",
+  "source_model": "models/modified/control_ready.idf",
+  "active_override_zone": "CORE_ZN",
+  "applied_heating_setpoint": 21.0,
+  "applied_cooling_setpoint": 28.0,
+  "agent_reason": "Restores occupied cooling comfort when zone is warm.",
+  "timestamp": 1785084966.7547028
+}

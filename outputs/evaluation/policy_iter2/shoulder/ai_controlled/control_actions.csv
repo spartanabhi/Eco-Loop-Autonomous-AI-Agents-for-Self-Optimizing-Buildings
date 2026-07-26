@@ -1,0 +1,7 @@
+run_id,simulation_time,zone,source,reason,previous_heating_setpoint,previous_cooling_setpoint,requested_heating_setpoint,requested_cooling_setpoint,applied_heating_setpoint,applied_cooling_setpoint,validation_passed,validation_message,actuator_write_success
+shoulder-ai-v2-1785085373,Day 15/05 08:02,CORE_ZN,local_qwen_agent,Restores occupied heating comfort when zone is cold.,21.00,24.00,21.50,24.00,21.50,24.00,True,Valid,True
+shoulder-ai-v2-1785085373,Day 15/05 08:42,CORE_ZN,local_qwen_agent,Restores occupied heating comfort when zone is cold.,21.50,24.00,22.00,24.00,22.00,24.00,True,Valid,True
+shoulder-ai-v2-1785085373,Day 16/05 18:05,CORE_ZN,local_qwen_agent,Relaxes heating setpoint by 0.5°C to save gas fuel.,22.00,24.00,22.00,24.00,22.00,24.00,True,Valid,True
+shoulder-ai-v2-1785085373,Day 16/05 18:45,CORE_ZN,local_qwen_agent,Relaxes heating setpoint by 0.5°C to save gas fuel.,22.00,24.00,22.00,24.00,22.00,24.00,True,Valid,True
+shoulder-ai-v2-1785085373,Day 17/05 18:05,CORE_ZN,local_qwen_agent,Relaxes heating setpoint by 0.5°C to save gas fuel.,22.00,24.00,22.00,24.00,22.00,24.00,True,Valid,True
+shoulder-ai-v2-1785085373,Day 17/05 18:45,CORE_ZN,local_qwen_agent,Relaxes heating setpoint by 0.5°C to save gas fuel.,22.00,24.00,22.00,24.00,22.00,24.00,True,Valid,True

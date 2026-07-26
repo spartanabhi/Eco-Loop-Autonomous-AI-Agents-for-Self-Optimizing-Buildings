@@ -1,0 +1,5 @@
+Season,Baseline Elec (kWh),AI Elec (kWh),Elec Red %,Baseline Gas (kWh-eq),AI Gas (kWh-eq),Gas Red %,Baseline Site (kWh-eq),AI Site (kWh-eq),Site Red %,Baseline Comfort %,AI Comfort %,Comfort Delta %,Baseline Peak (kW),AI Peak (kW),Peak Red %
+WINTER,264.01,264.01,+0.00%,728.19,728.19,+0.00%,992.20,992.20,+0.00%,63.7%,63.7%,+0.0%,7.33,7.33,+0.00%
+SHOULDER,264.01,264.01,+0.00%,728.19,728.19,+0.00%,992.20,992.20,+0.00%,63.7%,63.7%,+0.0%,7.33,7.33,+0.00%
+SUMMER,264.01,264.01,+0.00%,728.19,728.19,+0.00%,992.20,992.20,+0.00%,63.7%,63.7%,+0.0%,7.33,7.33,+0.00%
+AGGREGATE (9 DAYS),792.03,792.03,+0.00%,2184.57,2184.57,+0.00%,2976.60,2976.60,+0.00%,63.7%,63.7%,+0.0%,7.33,7.33,+0.00%

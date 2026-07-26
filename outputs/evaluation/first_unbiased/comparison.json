@@ -1,0 +1,62 @@
+{
+  "evaluation_period": "Jan 21 - Jan 23 (3 Days)",
+  "baseline_metrics": {
+    "total_timesteps": 288,
+    "total_joules": 950409266.4,
+    "total_kwh": 264.002574,
+    "peak_demand_kw": 7.33,
+    "intervals_above_peak": 0,
+    "total_occupied_timesteps": 168,
+    "comfort_compliance_pct": 63.69047619047619,
+    "mean_occupied_pmv": -0.4229761904761904,
+    "min_occupied_pmv": -0.81,
+    "max_occupied_pmv": 0.51,
+    "pct_too_cold": 35.714285714285715,
+    "pct_too_hot": 0.5952380952380952,
+    "mean_occupied_temp": 23.12607142857143,
+    "min_occupied_temp": 21.0,
+    "max_occupied_temp": 27.37,
+    "mean_occupied_co2": 630.732738095238,
+    "max_occupied_co2": 792.2,
+    "iaq_compliance_pct": 100.0,
+    "simulated_carbon_score_g": 92733.37200000008
+  },
+  "ai_metrics": {
+    "total_timesteps": 288,
+    "total_joules": 950409266.4,
+    "total_kwh": 264.002574,
+    "peak_demand_kw": 7.33,
+    "intervals_above_peak": 0,
+    "total_occupied_timesteps": 168,
+    "comfort_compliance_pct": 0.0,
+    "mean_occupied_pmv": 0.2923214285714286,
+    "min_occupied_pmv": -0.81,
+    "max_occupied_pmv": 1.04,
+    "pct_too_cold": 35.714285714285715,
+    "pct_too_hot": 64.28571428571429,
+    "mean_occupied_temp": 25.512916666666666,
+    "min_occupied_temp": 21.0,
+    "max_occupied_temp": 28.58,
+    "mean_occupied_co2": 626.4583333333334,
+    "max_occupied_co2": 784.2,
+    "iaq_compliance_pct": 100.0,
+    "simulated_carbon_score_g": 92733.37200000008
+  },
+  "comparisons": {
+    "energy_reduction_pct": 0.0,
+    "peak_reduction_pct": 0.0,
+    "carbon_reduction_pct": 0.0,
+    "comfort_compliance_diff_pct": -63.69047619047619
+  },
+  "agent_behaviour": {
+    "total_decisions": 257,
+    "action_distribution": {
+      "MAINTAIN": 211,
+      "ADJUST_SETPOINTS": 46
+    },
+    "actuator_writes": 8,
+    "avg_latency_seconds": 7.855738630554556,
+    "median_latency_seconds": 6.6942455768585205,
+    "max_latency_seconds": 44.487269163131714
+  }
+}

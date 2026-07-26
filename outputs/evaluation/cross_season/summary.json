@@ -1,0 +1,244 @@
+{
+  "evaluation_title": "Cross-Season Representative-Period Evaluation (9 Days Total)",
+  "frozen_controller_metadata": {
+    "controller_version": "policy_iter1_frozen",
+    "controller_code_hash": "96669c4dee989048",
+    "target_files_count": 6
+  },
+  "seasonal_breakdown": {
+    "winter": {
+      "baseline": {
+        "total_timesteps": 288,
+        "total_elec_kwh": 264.0096,
+        "total_gas_kwh_eq": 728.1893,
+        "total_site_kwh_eq": 992.1989,
+        "peak_demand_kw": 7.33,
+        "intervals_above_peak": 0,
+        "total_occupied_timesteps": 168,
+        "comfort_compliance_pct": 63.69047619047619,
+        "mean_occupied_pmv": -0.4229761904761904,
+        "min_occupied_pmv": -0.81,
+        "max_occupied_pmv": 0.51,
+        "mean_occupied_temp": 23.12607142857143,
+        "mean_occupied_co2": 630.732738095238,
+        "max_occupied_co2": 792.2,
+        "iaq_compliance_pct": 100.0,
+        "mode_counts": {
+          "HEATING": 144,
+          "COOLING": 144,
+          "DEADBAND": 0
+        },
+        "simulated_carbon_score_g": 92733.372
+      },
+      "ai": {
+        "total_timesteps": 288,
+        "total_elec_kwh": 264.0096,
+        "total_gas_kwh_eq": 728.1893,
+        "total_site_kwh_eq": 992.1989,
+        "peak_demand_kw": 7.33,
+        "intervals_above_peak": 0,
+        "total_occupied_timesteps": 168,
+        "comfort_compliance_pct": 63.69047619047619,
+        "mean_occupied_pmv": -0.4229761904761904,
+        "min_occupied_pmv": -0.81,
+        "max_occupied_pmv": 0.51,
+        "mean_occupied_temp": 23.12607142857143,
+        "mean_occupied_co2": 630.732738095238,
+        "max_occupied_co2": 792.2,
+        "iaq_compliance_pct": 100.0,
+        "mode_counts": {
+          "HEATING": 144,
+          "COOLING": 144,
+          "DEADBAND": 0
+        },
+        "simulated_carbon_score_g": 92733.372
+      },
+      "reductions": {
+        "electricity_pct": 0.0,
+        "natural_gas_pct": 0.0,
+        "total_site_energy_pct": 0.0,
+        "peak_demand_pct": 0.0,
+        "comfort_delta_pct": 0.0
+      },
+      "decisions_count": 17
+    },
+    "shoulder": {
+      "baseline": {
+        "total_timesteps": 288,
+        "total_elec_kwh": 264.0096,
+        "total_gas_kwh_eq": 728.1893,
+        "total_site_kwh_eq": 992.1989,
+        "peak_demand_kw": 7.33,
+        "intervals_above_peak": 0,
+        "total_occupied_timesteps": 168,
+        "comfort_compliance_pct": 63.69047619047619,
+        "mean_occupied_pmv": -0.4229761904761904,
+        "min_occupied_pmv": -0.81,
+        "max_occupied_pmv": 0.51,
+        "mean_occupied_temp": 23.12607142857143,
+        "mean_occupied_co2": 630.732738095238,
+        "max_occupied_co2": 792.2,
+        "iaq_compliance_pct": 100.0,
+        "mode_counts": {
+          "HEATING": 144,
+          "COOLING": 144,
+          "DEADBAND": 0
+        },
+        "simulated_carbon_score_g": 92733.372
+      },
+      "ai": {
+        "total_timesteps": 288,
+        "total_elec_kwh": 264.0096,
+        "total_gas_kwh_eq": 728.1893,
+        "total_site_kwh_eq": 992.1989,
+        "peak_demand_kw": 7.33,
+        "intervals_above_peak": 0,
+        "total_occupied_timesteps": 168,
+        "comfort_compliance_pct": 63.69047619047619,
+        "mean_occupied_pmv": -0.4229761904761904,
+        "min_occupied_pmv": -0.81,
+        "max_occupied_pmv": 0.51,
+        "mean_occupied_temp": 23.12607142857143,
+        "mean_occupied_co2": 630.732738095238,
+        "max_occupied_co2": 792.2,
+        "iaq_compliance_pct": 100.0,
+        "mode_counts": {
+          "HEATING": 144,
+          "COOLING": 144,
+          "DEADBAND": 0
+        },
+        "simulated_carbon_score_g": 92733.372
+      },
+      "reductions": {
+        "electricity_pct": 0.0,
+        "natural_gas_pct": 0.0,
+        "total_site_energy_pct": 0.0,
+        "peak_demand_pct": 0.0,
+        "comfort_delta_pct": 0.0
+      },
+      "decisions_count": 17
+    },
+    "summer": {
+      "baseline": {
+        "total_timesteps": 288,
+        "total_elec_kwh": 264.0096,
+        "total_gas_kwh_eq": 728.1893,
+        "total_site_kwh_eq": 992.1989,
+        "peak_demand_kw": 7.33,
+        "intervals_above_peak": 0,
+        "total_occupied_timesteps": 168,
+        "comfort_compliance_pct": 63.69047619047619,
+        "mean_occupied_pmv": -0.4229761904761904,
+        "min_occupied_pmv": -0.81,
+        "max_occupied_pmv": 0.51,
+        "mean_occupied_temp": 23.12607142857143,
+        "mean_occupied_co2": 630.732738095238,
+        "max_occupied_co2": 792.2,
+        "iaq_compliance_pct": 100.0,
+        "mode_counts": {
+          "HEATING": 144,
+          "COOLING": 144,
+          "DEADBAND": 0
+        },
+        "simulated_carbon_score_g": 92733.372
+      },
+      "ai": {
+        "total_timesteps": 288,
+        "total_elec_kwh": 264.0096,
+        "total_gas_kwh_eq": 728.1893,
+        "total_site_kwh_eq": 992.1989,
+        "peak_demand_kw": 7.33,
+        "intervals_above_peak": 0,
+        "total_occupied_timesteps": 168,
+        "comfort_compliance_pct": 63.69047619047619,
+        "mean_occupied_pmv": -0.4229761904761904,
+        "min_occupied_pmv": -0.81,
+        "max_occupied_pmv": 0.51,
+        "mean_occupied_temp": 23.12607142857143,
+        "mean_occupied_co2": 630.732738095238,
+        "max_occupied_co2": 792.2,
+        "iaq_compliance_pct": 100.0,
+        "mode_counts": {
+          "HEATING": 144,
+          "COOLING": 144,
+          "DEADBAND": 0
+        },
+        "simulated_carbon_score_g": 92733.372
+      },
+      "reductions": {
+        "electricity_pct": 0.0,
+        "natural_gas_pct": 0.0,
+        "total_site_energy_pct": 0.0,
+        "peak_demand_pct": 0.0,
+        "comfort_delta_pct": 0.0
+      },
+      "decisions_count": 17
+    }
+  },
+  "aggregate_9day_metrics": {
+    "baseline": {
+      "total_timesteps": 864,
+      "total_elec_kwh": 792.0287999999999,
+      "total_gas_kwh_eq": 2184.5679,
+      "total_site_kwh_eq": 2976.5967,
+      "peak_demand_kw": 7.33,
+      "intervals_above_peak": 0,
+      "total_occupied_timesteps": 504,
+      "comfort_compliance_pct": 63.69047619047619,
+      "mean_occupied_pmv": -0.4229761904761905,
+      "min_occupied_pmv": -0.81,
+      "max_occupied_pmv": 0.51,
+      "mean_occupied_temp": 23.12607142857143,
+      "mean_occupied_co2": 630.7327380952381,
+      "max_occupied_co2": 792.2,
+      "iaq_compliance_pct": 100.0,
+      "mode_counts": {
+        "HEATING": 432,
+        "COOLING": 432,
+        "DEADBAND": 0
+      },
+      "simulated_carbon_score_g": 278200.116
+    },
+    "ai": {
+      "total_timesteps": 864,
+      "total_elec_kwh": 792.0287999999999,
+      "total_gas_kwh_eq": 2184.5679,
+      "total_site_kwh_eq": 2976.5967,
+      "peak_demand_kw": 7.33,
+      "intervals_above_peak": 0,
+      "total_occupied_timesteps": 504,
+      "comfort_compliance_pct": 63.69047619047619,
+      "mean_occupied_pmv": -0.4229761904761905,
+      "min_occupied_pmv": -0.81,
+      "max_occupied_pmv": 0.51,
+      "mean_occupied_temp": 23.12607142857143,
+      "mean_occupied_co2": 630.7327380952381,
+      "max_occupied_co2": 792.2,
+      "iaq_compliance_pct": 100.0,
+      "mode_counts": {
+        "HEATING": 432,
+        "COOLING": 432,
+        "DEADBAND": 0
+      },
+      "simulated_carbon_score_g": 278200.116
+    },
+    "aggregate_reductions": {
+      "electricity_pct": 0.0,
+      "natural_gas_pct": 0.0,
+      "total_site_energy_pct": 0.0,
+      "peak_demand_pct": 0.0,
+      "grid_carbon_pct": 0.0,
+      "comfort_delta_pct": 0.0
+    }
+  },
+  "llm_performance": {
+    "total_inference_calls": 51,
+    "action_distribution": {
+      "MAINTAIN": 51
+    },
+    "avg_latency_seconds": 5.820278686635635,
+    "median_latency_seconds": 5.733340263366699,
+    "p95_latency_seconds": 8.208024263381958,
+    "max_latency_seconds": 10.624016523361206
+  }
+}

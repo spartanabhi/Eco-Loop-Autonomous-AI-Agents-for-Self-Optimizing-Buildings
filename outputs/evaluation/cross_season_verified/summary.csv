@@ -1,0 +1,5 @@
+Season,Controller Executed,Decisions Count,Outdoor Mean (°C),Baseline Elec (kWh),AI Elec (kWh),Elec Red %,Baseline Gas (kWh-eq),AI Gas (kWh-eq),Gas Red %,Baseline Site (kWh-eq),AI Site (kWh-eq),Site Red %,Baseline Comfort %,AI Comfort %,Comfort Delta %,Baseline Peak (kW),AI Peak (kW),Peak Red %
+WINTER,True,51,0.4,405.90,405.90,+0.00%,325.70,325.70,+0.00%,731.60,731.60,+0.00%,30.9%,30.9%,+0.0%,6.60,6.60,+0.00%
+SHOULDER,True,51,11.5,242.82,242.82,+0.00%,25.33,25.33,+0.00%,268.15,268.15,+0.00%,0.0%,0.0%,+0.0%,6.60,6.60,+0.00%
+SUMMER,True,51,24.1,405.90,405.90,+0.00%,26.11,26.11,+0.00%,432.01,432.01,+0.00%,100.0%,100.0%,+0.0%,6.60,6.60,+0.00%
+AGGREGATE (9 DAYS),True,153,12.0,1054.62,1054.62,+0.00%,377.15,377.15,+0.00%,1431.76,1431.76,+0.00%,47.5%,47.5%,+0.0%,6.60,6.60,+0.00%

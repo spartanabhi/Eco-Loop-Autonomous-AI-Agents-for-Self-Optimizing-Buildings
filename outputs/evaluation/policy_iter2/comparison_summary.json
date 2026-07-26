@@ -1,0 +1,95 @@
+{
+  "winter": {
+    "baseline": {
+      "elec_kwh": 612.24,
+      "gas_kwh": 325.71,
+      "total_site_kwh": 937.95,
+      "mean_occupied_pmv": -0.55,
+      "comfort_compliance_pct": 29.63
+    },
+    "policy1": {
+      "elec_kwh": 612.24,
+      "gas_kwh": 325.71,
+      "total_site_kwh": 937.95,
+      "mean_occupied_pmv": -0.55,
+      "comfort_compliance_pct": 29.63,
+      "decisions": 51,
+      "actions_applied": 0,
+      "ecm_available": 0,
+      "ecm_selected": 0
+    },
+    "policy2": {
+      "elec_kwh": 619.14,
+      "gas_kwh": 361.36,
+      "total_site_kwh": 980.5,
+      "mean_occupied_pmv": -0.4,
+      "comfort_compliance_pct": 75.93,
+      "decisions": 51,
+      "actions_applied": 2,
+      "ecm_available": 2,
+      "ecm_selected": 2
+    }
+  },
+  "shoulder": {
+    "baseline": {
+      "elec_kwh": 375.48,
+      "gas_kwh": 25.34,
+      "total_site_kwh": 400.83,
+      "mean_occupied_pmv": -1.11,
+      "comfort_compliance_pct": 0.0
+    },
+    "policy1": {
+      "elec_kwh": 375.48,
+      "gas_kwh": 25.34,
+      "total_site_kwh": 400.83,
+      "mean_occupied_pmv": -1.11,
+      "comfort_compliance_pct": 0.0,
+      "decisions": 51,
+      "actions_applied": 0,
+      "ecm_available": 0,
+      "ecm_selected": 0
+    },
+    "policy2": {
+      "elec_kwh": 388.88,
+      "gas_kwh": 37.78,
+      "total_site_kwh": 426.66,
+      "mean_occupied_pmv": -1.09,
+      "comfort_compliance_pct": 0.0,
+      "decisions": 51,
+      "actions_applied": 6,
+      "ecm_available": 6,
+      "ecm_selected": 6
+    }
+  },
+  "summer": {
+    "baseline": {
+      "elec_kwh": 747.11,
+      "gas_kwh": 26.13,
+      "total_site_kwh": 773.23,
+      "mean_occupied_pmv": -0.39,
+      "comfort_compliance_pct": 100.0
+    },
+    "policy1": {
+      "elec_kwh": 747.11,
+      "gas_kwh": 26.13,
+      "total_site_kwh": 773.23,
+      "mean_occupied_pmv": -0.39,
+      "comfort_compliance_pct": 100.0,
+      "decisions": 51,
+      "actions_applied": 0,
+      "ecm_available": 0,
+      "ecm_selected": 0
+    },
+    "policy2": {
+      "elec_kwh": 720.89,
+      "gas_kwh": 26.15,
+      "total_site_kwh": 747.04,
+      "mean_occupied_pmv": 0.42,
+      "comfort_compliance_pct": 46.3,
+      "decisions": 51,
+      "actions_applied": 48,
+      "ecm_available": 48,
+      "ecm_selected": 48
+    }
+  }
+}

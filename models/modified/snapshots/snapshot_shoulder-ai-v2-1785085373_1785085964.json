@@ -1,0 +1,10 @@
+{
+  "run_id": "shoulder-ai-v2-1785085373",
+  "simulation_time": "Day 17/05 18:05",
+  "source_model": "models/modified/control_ready.idf",
+  "active_override_zone": "CORE_ZN",
+  "applied_heating_setpoint": 22.0,
+  "applied_cooling_setpoint": 24.0,
+  "agent_reason": "Relaxes heating setpoint by 0.5\u00b0C to save gas fuel.",
+  "timestamp": 1785085964.4862638
+}
